@@ -5,5 +5,6 @@
 <h3>Also added to test is a jenkin slave</h3>
 <h3>Also added to test Ansible playbook</h3>
 <h3>Also added is Docker host in this pipeline</h3>
+<h3>retest the auto deployment</h3>
 </body>
 </html>
