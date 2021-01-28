@@ -7,5 +7,6 @@
 <h3>Also added is Docker host in this pipeline</h3>
 <h3>retest the auto deployment</h3>
 <h3>test the ansible to docker code deployment</h3>
+<h3>retest the ansible to deocker deployment ...........</h3>
 </body>
 </html>
