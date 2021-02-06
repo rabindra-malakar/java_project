@@ -1,12 +1,6 @@
 <html>
 <body>
-<h1>This is a first Jenkins deployment </h1>
+<h1>This is to test the kubernetes deployment </h1>
 <h2>CI/CD pipeline</h2>
-<h3>Also added to test is a jenkin slave</h3>
-<h3>Also added to test Ansible playbook</h3>
-<h3>Also added is Docker host in this pipeline</h3>
-<h3>retest the auto deployment</h3>
-<h3>test the ansible to docker code deployment</h3>
-<h3>retest the ansible to deocker deployment ...........</h3>
 </body>
 </html>
